@@ -34,7 +34,7 @@ int main() {
 	int n;
 	char again; // loop again? y or n
 	do{
-		cout << "請輸入學生人數 : " ;
+	cout << "請輸入學生人數 : " ;
 	cin >> n;
 	cout << endl; 
 	cout << " NO.       學號      國文   英文   數學   資訊   總和   平均   不及格" << endl;
