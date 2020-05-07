@@ -1,6 +1,6 @@
 # Transcript
 
-|Author|Chen Jaofeng|
+|Author|Chieh-Ting Chung|
 |---|---
 |E-mail|sksksk1748@gmail.com
 
